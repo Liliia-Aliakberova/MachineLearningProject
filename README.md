@@ -17,3 +17,16 @@ https://www.kaggle.com/code/ibabarx/airbnb-prices-in-european-cities#CHECKING-FO
 - Outliers price.
 - Stratify (Resampling?)
 - Add latitude and longitude
+
+
+
+
+Questions 17-05-23
+- Have a model for each city without weekends. 
+- Create a function to train and test each city.
+- Explain analysis and the decision, not 
+
+
+19-05-23
+- Check model.
+- 
