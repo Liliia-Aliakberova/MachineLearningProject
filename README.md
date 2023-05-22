@@ -29,4 +29,14 @@ Questions 17-05-23
 
 19-05-23
 - Check model.
-- 
+
+https://sustainability-gis.readthedocs.io/en/latest/lessons/L4/spatial_regression.html
+
+https://www.kaggle.com/datasets/thedevastator/airbnb-prices-in-european-cities
+https://zenodo.org/record/4446043#.ZGq_GOxBw4b
+https://reader.elsevier.com/reader/sd/pii/S0261517721000388?token=1419459F5ED974F3CE0FD6D8CF380D098662059CDF7F32DC8B91DA9172C6BFBC1B9C33B535DB4C401C2EEFE3DAF346B9&originRegion=eu-west-1&originCreation=20230522001027
+
+
+http://darribas.org/gds_scipy16/ipynb_md/08_spatial_regression.html
+
+https://github.com/gracecarrillo/Predicting-Airbnb-prices-with-machine-learning-and-location-data/blob/gh-pages/Exploring_Edinburgh_Graciela_Carrillo.ipynb
